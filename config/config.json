@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "prj",
+    "password": null,
+    "database": "prj_dev",
+    "host": "localhost",
+    "port": 5432,
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "prj",
+    "password": null,
+    "database": "prj_test",
+    "host": "localhost",
+    "port": 5432,
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "prj",
+    "password": null,
+    "database": "prj_prod",
+    "host": "localhost",
+    "port": 5432,
+    "dialect": "postgres"
+  }
+}
